@@ -9,6 +9,12 @@ Play popular games **without touching a keyboard** — using your **body movemen
 
 ---
 
+## 🎥 Demo
+
+▶️ **Watch it in action:** [LinkedIn demo video](https://www.linkedin.com/feed/update/urn:li:activity:7188188300409483264)
+
+---
+
 ## 🕹️ Games Included
 
 ### 1️⃣ Subway Surfers / Temple Run — Full-Body Pose Control
